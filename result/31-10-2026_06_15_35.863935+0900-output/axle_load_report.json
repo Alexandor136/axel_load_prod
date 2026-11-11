@@ -1,0 +1,28 @@
+{
+  "axles": {
+    "front": {
+      "pct": 41.5
+    },
+    "rear": {
+      "pct": 58.5
+    }
+  },
+  "wheels": {
+    "1": [
+      "front_left",
+      23.5
+    ],
+    "2": [
+      "front_right",
+      18.0
+    ],
+    "3": [
+      "rear_right",
+      24.8
+    ],
+    "4": [
+      "rear_left",
+      33.7
+    ]
+  }
+}
